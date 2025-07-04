@@ -15,6 +15,12 @@
 
             // NUMBER PALINDROME
             NumberPalindrome.PalindromeNumber();
+
+            //ARMSTRONG NUMBER
+            Armstrong.ArmstrongMethod();
+
+            // PRIME NUMBER
+            PrimeNumber.PrimeNumberMethod();
         }
     }
 }
