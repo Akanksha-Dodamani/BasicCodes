@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             // FIBONACCI SERIES
-            //FibonacciSeries.Fibonacci();
+            FibonacciSeries.Fibonacci();
 
             // COUNT NUMBER OF SPACES IN BETWEEN SENTENCE
             //SpacesClass.SpaceInSentence();
