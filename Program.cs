@@ -8,10 +8,13 @@
             FibonacciSeries.Fibonacci();
 
             // COUNT NUMBER OF SPACES IN BETWEEN SENTENCE
-            //SpacesClass.SpaceInSentence();
+            SpacesClass.SpaceInSentence();
 
             // WORD PALINDROME
             StringPalindrome.Palindrome();
+
+            // NUMBER PALINDROME
+            NumberPalindrome.PalindromeNumber();
         }
     }
 }
