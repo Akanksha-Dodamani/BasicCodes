@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            // FIBONACCI SERIES
+            //FIBONACCI SERIES
             FibonacciSeries.Fibonacci();
 
             // COUNT NUMBER OF SPACES IN BETWEEN SENTENCE
@@ -21,6 +21,9 @@
 
             // PRIME NUMBER
             PrimeNumber.PrimeNumberMethod();
+
+            // FACTORIAL OF A NUMBER
+            Factorial.FactorialMethod();
         }
     }
 }
