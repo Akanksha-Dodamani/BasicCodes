@@ -24,6 +24,9 @@
 
             // FACTORIAL OF A NUMBER
             Factorial.FactorialMethod();
+
+            // REVERSE A NUMBER
+            ReverseNumber.Reverse();
         }
     }
 }
