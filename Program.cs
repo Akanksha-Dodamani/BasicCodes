@@ -10,23 +10,29 @@
             // COUNT NUMBER OF SPACES IN BETWEEN SENTENCE
             SpacesClass.SpaceInSentence();
 
-            // WORD PALINDROME
+            //// WORD PALINDROME
             StringPalindrome.Palindrome();
 
-            // NUMBER PALINDROME
+            //// NUMBER PALINDROME
             NumberPalindrome.PalindromeNumber();
 
-            //ARMSTRONG NUMBER
+            ////ARMSTRONG NUMBER
             Armstrong.ArmstrongMethod();
 
-            // PRIME NUMBER
+            //// PRIME NUMBER
             PrimeNumber.PrimeNumberMethod();
 
-            // FACTORIAL OF A NUMBER
+            //// FACTORIAL OF A NUMBER
             Factorial.FactorialMethod();
 
-            // REVERSE A NUMBER
+            //// REVERSE A NUMBER
             ReverseNumber.Reverse();
+
+            // COUNT NUMBER OF WORDS IN SENTENCE
+            WordCount.NumberOfWords();
+
+            // Class Vs Struct
+            ClassVsStruct.Method();
         }
     }
 }
