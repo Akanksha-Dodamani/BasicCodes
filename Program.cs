@@ -33,6 +33,9 @@
 
             // Class Vs Struct
             ClassVsStruct.Method();
+
+            // Boxing Unboxing
+            BoxingUnboxing.BoxUnboxMethod();
         }
     }
 }
